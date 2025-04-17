@@ -1,16 +1,16 @@
-## Hi there 👋
+# Welcome to my Github.
 
-<!--
-**VincentDorais/VincentDorais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Current project :
+- NPC generator for Hârnmaster (HMK):
+  A tool to generate complete/quick and unique NPCs. Written in Python. Repository to be created.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Currently learning :
+- Python
+- C (eventually)
+- Assembly (hopefully)
+
+### Interests :
+- Mathematics
+- Physics
+- Medicine
