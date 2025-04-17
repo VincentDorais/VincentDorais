@@ -19,7 +19,7 @@
 ###
 
 ### Future projects :
-- Currently in progress.
+- Always in progress.
 - Solving Leetcode challenges using C.
 - Possible ideas :
   - [ ] Designing a GUI for the NPC generator.
