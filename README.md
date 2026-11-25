@@ -1,5 +1,5 @@
 Currently learning Rust.\
-Wish to learn assembly.
+Wish to learn C and x86-64 Assembly eventually.
 
 ---
 ---
